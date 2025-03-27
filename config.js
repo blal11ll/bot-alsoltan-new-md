@@ -11,15 +11,15 @@ global.botnumber = ""
 global.confirmCode = ""
 
 global.owner = [
-  ['201277272498', 'YoUsSeF Al SoLtAn', true],
-  ['201277272498','YoUsSeF Al SoLtAn', true]
+  ['967781974099', 'YoUsSeF Al SoLtAn', true],
+  ['967781974099','YoUsSeF Al SoLtAn', true]
 ];
 
 global.ownername = 'YoUsSeF Al SoLtAn';
-global.ownernumber = '201277272498';
+global.ownernumber = '967781974099';
 
-global.suittag = ['201277272498', '201277272498'];
-global.prems = ['201277272498', '201277272498'];
+global.suittag = ['967781974099', '967781974099'];
+global.prems = ['967781974099', '967781974099'];
 
 global.packname = '© BOT AL SOLTAN';
 global.author = 'Bot By YoUsSeF Al SoLtAn';
@@ -77,7 +77,7 @@ global.waitt = '*━────── •●• ──────━*\n> [ ⏳
 global.waittt = '*━────── •●• ──────━*\n> [ ⏳ ] جاري التحميل ...\n*━────── •●• ──────━*';
 global.waitttt = '*[*━────── •●• ──────━*\n> [ ⏳ ] جاري التحميل ...\n*━────── •●• ──────━*';
 
-global.nomorown = '201277272498';
+global.nomorown = '967781974099';
 global.pdoc = ['application/vnd.openxmlformats-officedocument.presentationml.presentation', 'application/vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'application/vnd.openxmlformats-officedocument.wordprocessingml.document', 'application/vnd.ms-excel', 'application/msword', 'application/pdf', 'text/rtf'];
 
 global.cmenut = '❖––––––『';
